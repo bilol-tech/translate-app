@@ -1,11 +1,11 @@
-# This is a Portfolio website.
+# This is a Tranlator App.
 
 - [x] This portfolio website has both dark and light.
 
 | <img src='https://github.com/Bilol4391/translator_portfolio_app/blob/main/assets/images/Screenshot%202023-02-03%20at%2004.01.38.png' width='500'>|<img src='https://github.com/Bilol4391/translator_portfolio_app/blob/main/assets/images/Screenshot%202023-02-03%20at%2004.01.17.png' width='500'> |
 |:---:|--------|
 
-- [x] Works on all desktops, tablets and mobiles
+[//]: # (- [x] Works on all desktops, tablets and mobiles)
 
 
 
